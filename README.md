@@ -7,3 +7,5 @@ Third Same as two
 ##How To Contribute
 fourth thing
 fifth Thing
+adding command only
+
