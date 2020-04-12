@@ -11,3 +11,5 @@ adding command only
 
 second branch newtitle
 @copright
+
+On master while branch have own text
