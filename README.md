@@ -13,3 +13,4 @@ second branch newtitle
 @copright
 
 On master while branch have own text
+master rebase
