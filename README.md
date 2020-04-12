@@ -16,3 +16,4 @@ On master while branch have own text
 master rebase
 from test rebase
 testinggg
+before conflict changes - master
