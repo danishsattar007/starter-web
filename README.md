@@ -19,3 +19,4 @@ testinggg
 -----------------------
 
 before conflict master - master
+stashing
