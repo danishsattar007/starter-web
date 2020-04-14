@@ -22,3 +22,4 @@ before conflict master - master
 stashing
 stasing 
 master
+tag2
